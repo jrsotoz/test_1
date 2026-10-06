@@ -59,41 +59,47 @@ Instagram / Facebook / Google
 - **Instagram:** conectas el catálogo para que pueda etiquetar productos en sus posts y configuras respuestas automáticas, con Meta Business Suite gratis o con ManyChat. Por ejemplo, si alguien escribe "precio", le responde con el link a la tienda. Esto ataca directo su problema de perder ventas.
 - **Marcas:** usa el campo de marca del producto o una categoría padre "Marcas" con una subcategoría por marca. Pon logos en el inicio para que la gente dé clic.
 
-## 3. Cuánto cobrarle (MXN)
+## 3. Cuánto cobrarle (MXN), ajustado después de la auditoría
+
+La auditoría (`auditoria-tienda-selfish.md`) mostró que ya tiene hecho el árbol de categorías, Mercado Pago con meses sin intereses, el control de stock y la categoría de preventa. A cambio, aparecieron trabajos que no estaban contemplados: banners, políticas, marcas y limpieza del menú.
 
 ### Horas estimadas
 
-| Bloque | Horas |
-|---|---|
-| Revisar lo que ya avanzó y ordenar categorías, subcategorías y marcas | 4–6 |
-| Diseño y personalización de la plantilla (inicio, carrusel, banners, página de producto, versión celular) | 12–18 |
-| Pagos y checkout | 2–3 |
-| Envíos y paqueterías, reglas de envío gratis | 3–5 |
-| Preventa (etiquetas, textos, lógica) | 2–4 |
-| Analytics, búsquedas sin resultados y Search Console | 3–4 |
-| Instagram Shopping y respuestas automáticas | 3–5 |
-| Pruebas de compra completas | 2–3 |
-| Capacitación: cómo subir productos, descargar pedidos y generar guías (grabada) | 2–3 |
-| **Total** | **~35–50 h** |
-
-Con una tarifa amistosa de $250 a $350 MXN por hora sale entre **$9,000 y $17,000 MXN**.
-
-### Propuesta por paquetes
-
-| Paquete | Incluye | Precio sugerido |
+| Bloque | Horas | Notas |
 |---|---|---|
-| **Básico** | Retomar Tiendanube, categorías y marcas, diseño del inicio, pagos, envíos y capacitación | **$7,000 – $9,000** |
-| **Completo** ⭐ | Todo lo básico más preventa, analítica de búsquedas, Instagram Shopping, respuestas automáticas y 2 rondas de cambios | **$12,000 – $15,000** |
-| Mantenimiento (opcional) | Cambiar banners de temporada, ajustes pequeños y soporte | $800 – $1,500 al mes |
+| Limpiar menú: ocultar categorías vacías, corregir URLs con "1" y "Fragrance" | 2–3 | Ya existe la estructura, solo es pulir |
+| Marcas: categoría "Brands" y fila de logos en el inicio | 3–4 | |
+| Banners: carrusel (3–5) y promocionales, en versión para computadora y celular | 5–8 | Diseñados en Canva con fotos de ella |
+| Ajustes visuales: colores, tipografía, secciones del inicio, barra de anuncios y pie de página | 4–6 | |
+| Políticas y preguntas frecuentes (envíos, cambios, preventa, privacidad, términos) | 2–3 | |
+| Botón de WhatsApp y datos de contacto | 1 | |
+| Pagos: revisar y probar | 1 | Ya está conectado |
+| Envíos y paqueterías, reglas de envío gratis | 3–5 | |
+| Preventa: textos, etiqueta y lógica | 2–3 | La categoría ya existe |
+| Analytics, búsquedas sin resultados y píxel de Meta | 3–4 | |
+| Instagram Shopping y respuestas automáticas | 3–5 | |
+| Pruebas de compra completas | 2–3 | |
+| Capacitación | 2 | |
+| **Total** | **~33–48 h** | Con mi ayuda en textos y código, unas **22–32 h** de tu lado |
 
-Si de verdad no le quieres cobrar mucho, el Completo en **$10,000 a $12,000** sigue siendo justo y es barato para el mercado. Una agencia le cobraría de $25,000 a $50,000 o más.
+### Paquetes ajustados
+
+| Paquete | Incluye | Horas | Precio sugerido |
+|---|---|---|---|
+| **Lanzamiento** | Limpieza del menú, marcas, banners, ajustes visuales, políticas, WhatsApp, pagos, envíos, pruebas y capacitación | 24–36 | **$6,500 – $8,500** |
+| **Completo** ⭐ | Todo lo de Lanzamiento más preventa, analítica de búsquedas, píxel e Instagram Shopping con respuestas automáticas | 33–48 | **$10,000 – $12,500** |
+| Mantenimiento (opcional) | Banners de temporada, ajustes y soporte | — | $800 – $1,500 al mes |
+| Banner extra | Fuera de los incluidos | — | $150 – $250 cada uno |
+
+**Recomendación:** el paquete Completo en **$11,000 MXN**, o el de Lanzamiento en **$7,500** si quiere empezar con poco y agregar lo demás después.
 
 ### Condiciones para que no te coman vivo
 
 - **Pago:** 50% al iniciar y 50% al entregar.
 - **Queda fuera:** subir productos, tomar o editar fotos y hacer el logo. Si quiere que subas productos, cóbralo aparte, por ejemplo $15 a $25 por producto.
+- **Banners:** se incluyen hasta 5, hechos con las fotos que ella entregue.
 - **Costos que paga ella:** el plan de Tiendanube, el dominio (unos $300 a $500 al año), las apps de pago y las comisiones de la pasarela, que andan alrededor del 3.5% + IVA. Revisa los precios vigentes antes de pasárselos.
-- **Tiempo de entrega:** de 3 a 4 semanas, siempre que ella entregue a tiempo el logo, las fotos de los banners y los textos.
+- **Tiempo de entrega:** 2 a 3 semanas, siempre que ella entregue a tiempo el logo, las fotos y los textos.
 - **Cambios:** 2 rondas incluidas; los cambios extra se cobran por hora.
 
 ## 4. Pregúntale esto antes de cerrar el precio
